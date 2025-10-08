@@ -1,10 +1,7 @@
-﻿// Repositories/TaskRepository.cs
-using Dapper;
-using System.Data;
+﻿using Dapper;
 using DAL.Models;
 using DAL.Interfaces;
 using DAL.Factory;
-using Dapper;
 
 
 public class TaskRepository : ITaskRepository
